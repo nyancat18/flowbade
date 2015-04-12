@@ -11,9 +11,13 @@ en OpenSUSE
 zypper in desktop-file-utils fdupes python-devel dbus-1-python ffmpeg frei0r-plugins ladspa ladspa-swh-plugins libcairomm-1_0-1 sox libmlt6-modules librsvg-2-2 python-cairo python-gnome python-gnomevfs python-gtk python-imaging python-mlt python-numpy python-xdg 
 
 
+en Ubuntu/Mint
+
+apt-get install gtk2-engines-pixbuf librsvg2-common python-gtk2 python-mlt python-dbus 	libmlt-data 	python 2.7 frei0r-plugins swh-plugins python-cairo python-numpy python-gnome2 python-gobject-2 
+
 Compilación
 
-submit
+
 escribir tu clave de root
 
 y ejecutar
